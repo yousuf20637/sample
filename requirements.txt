@@ -1,0 +1,2 @@
+# No external dependencies required for this simple sample
+# Add your dependencies here as needed
